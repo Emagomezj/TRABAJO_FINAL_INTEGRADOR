@@ -7,9 +7,8 @@
 ```
 biblioteca-sistema/
 ├── TIF_API/                 # Backend Spring Boot (API REST)
-├── TIF_Consigna/                  # Aplicación de Consola Java
-├── README.md               # Este archivo
-└── .gitmodules             # Configuración de submodules
+├── TIF_Consigna/            # Aplicación de Consola Java
+├── README.md                # Este archivo
 └── Informe -Trabajo Integrador Final.pdf
 ```
 
@@ -121,7 +120,7 @@ cd TIF_API
 
 ### **TIF_API** - Esquema Avanzado
 ```sql
--- Usuarios con roles y autenticación
+-- Usuarios con roles
 -- Libros con contadores de disponibilidad  
 -- Préstamos con estados y fechas
 ```
