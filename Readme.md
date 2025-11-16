@@ -87,7 +87,7 @@ cd TIF_API
 
 ./mvnw test
 
-./mvnw spring-boot:run
+./mvnw spring-boot::run
 
 # La API estará en: http://localhost:8080
 ```
