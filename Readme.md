@@ -93,19 +93,9 @@ cd TIF_API
 ```
 
 ### **TIF_Consigna - Aplicación de Consola**
-Antes de correr el proyecto es necesario que se modifiquen los datos de acceso a la base de datos en resources database.properties.
-```bash
-cd TIF_P2
-
-# src/main/resources/database.properties
-
-# Compilar y ejecutar
-javac -cp ".:mysql-connector-j.jar" src/main/java/utn/tif/AppMenu.java
-java -cp ".:mysql-connector-j.jar" utn.tif.AppMenu
-```
-
----
-
+1. Abrir el proyecto en un IDE (NetBeans o IntelliJ)
+2. Antes de correr el proyecto es necesario que se modifiquen los datos de acceso a la base de datos en resources database.properties.
+3. Correr AppMenu
 ## Funcionalidades por Proyecto
 
 ### **TIF_API** - Backend Completo
