@@ -159,14 +159,14 @@ cd TIF_API
 ## Documentación Adicional
 
 ### TIF_API
-- [Readme](https://github.com/Emagomezj/tif_p2)
-- [Colección Postman](https://github.com/Emagomezj/tif_p2/blob/main/src/main/resources/TIF_P2.postman_collection.json)
-- [Scripts SQL](https://github.com/Emagomezj/tif_p2/tree/main/src/main/resources/sqlScripts)
-### TIF_Consigna
-- [Documentación Técnica](https://github.com/Emagomezj/TRABAJO_FINAL_INTEGRADOR/blob/main/Informe%20-%20Trabajo%20Integrador%20Final.pdf)
-- [Readme](https://github.com/Emagomezj/tif_p2_v1)
-- [Diagrama UML](https://github.com/Emagomezj/TRABAJO_FINAL_INTEGRADOR/blob/main/diagrama.jpg)
+- <a href="https://github.com/Emagomezj/tif_p2" target="_blank">Readme</a>
+- <a href="https://github.com/Emagomezj/tif_p2/blob/main/src/main/resources/TIF_P2.postman_collection.json" target="_blank">Colección Postman</a>
+- <a href="https://github.com/Emagomezj/tif_p2/tree/main/src/main/resources/sqlScripts" target="_blank">Scripts SQL</a>
 
+### TIF_Consigna
+- <a href="https://github.com/Emagomezj/TRABAJO_FINAL_INTEGRADOR/blob/main/Informe%20-%20Trabajo%20Integrador%20Final.pdf" target="_blank">Documentación Técnica</a>
+- <a href="https://github.com/Emagomezj/tif_p2_v1" target="_blank">Readme</a>
+- <a href="https://github.com/Emagomezj/TRABAJO_FINAL_INTEGRADOR/blob/main/diagrama.jpg" target="_blank">Diagrama UML</a>
 
 ---
 
