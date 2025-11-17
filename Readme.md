@@ -78,6 +78,7 @@ En el proyecto TIF_API tomamos algunas decisiones a fin de optimizar el proyecto
 ## Ejecución de los Proyectos
 
 ### **TIF_API - Backend Spring Boot**
+### **¡¡Importante!!**
 Primero debe crearse el archivo .env tomando de referencia el .env.example completando los datos.
 ```bash
 cd TIF_API
@@ -138,6 +139,8 @@ cd TIF_API
 ## Testing
 
 ### TIF_API
+- Pruebas manuales desde PostMan (Se recomienda utilizar la colección del repositorio para hacerlo)
+- La API también cuenta con test unitarios y de integración que se corren por consola con el comando:
 ```bash
 cd TIF_API
 ./mvnw test
@@ -156,14 +159,13 @@ cd TIF_API
 ## Documentación Adicional
 
 ### TIF_API
-- Readme
-- Colección Postman
-- Configuración BD
-- Scripts SQL
+- [Readme](https://github.com/Emagomezj/tif_p2)
+- [Colección Postman](https://github.com/Emagomezj/tif_p2/blob/main/src/main/resources/TIF_P2.postman_collection.json)
+- [Scripts SQL](https://github.com/Emagomezj/tif_p2/tree/main/src/main/resources/sqlScripts)
 ### TIF_Consigna
-- Documentación Técnica
-- Scripts BD
-- Diagrama UML
+- [Documentación Técnica](https://github.com/Emagomezj/TRABAJO_FINAL_INTEGRADOR/blob/main/Informe%20-%20Trabajo%20Integrador%20Final.pdf)
+- [Readme](https://github.com/Emagomezj/tif_p2_v1)
+- [Diagrama UML](https://github.com/Emagomezj/TRABAJO_FINAL_INTEGRADOR/blob/main/diagrama.jpg)
 
 
 ---
