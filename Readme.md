@@ -169,6 +169,10 @@ cd TIF_API
 - <a href="https://github.com/Emagomezj/TRABAJO_FINAL_INTEGRADOR/blob/main/diagrama.jpg" target="_blank">Diagrama UML</a>
 
 ---
+### **Link a la carpeta del Video y el Informe** ###
+
+[Drive](https://drive.google.com/drive/folders/1HfTal0E-kqsDirfkmRH9I2lHSgf5WetJ?usp=drive_link)
+---
 
 ## Autores
 
